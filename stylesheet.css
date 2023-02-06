@@ -11,3 +11,14 @@ ul.list > li {
     border-bottom: solid 1px grey;
 }
 
+li>a:link {
+    color: red;
+}
+
+li>a:visited {
+    color: green;
+}
+
+li>a:hover {
+    color: pink;
+}
